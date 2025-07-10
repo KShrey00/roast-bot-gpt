@@ -89,6 +89,6 @@ Make sure your chat app (e.g., WhatsApp Web) is visible and focused.
 
 ### Author
 
-Made by Shreya Kumari
-Enjoy!
+    Made by Shreya Kumari
+    Enjoy!
 
